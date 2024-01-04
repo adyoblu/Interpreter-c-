@@ -1,0 +1,24 @@
+int a = 5;
+double b = 3.14;
+float c = 2.5f;
+/*a + b;
+b * c;
+a / 2;
+if (a < 3) { 
+    a = a + 1; 
+} else { 
+    a = a - 1; 
+}
+while (a < 10) { 
+    a = a + 1; 
+}
+print "ceva";
+print a;
+print a, "Ai introdus bine";
+double e = (double)a;
+float f = (float)e;*/
+//float g = 5.2;
+int suma(int x, int y) { 
+    return x + y; 
+} 
+int rezultat = suma(5, 3);
